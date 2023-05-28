@@ -22,3 +22,5 @@ social: false  # includes social icons at the bottom of the page
 Ms. Yuchen Si is a 3rd year Ph.D. student at the University of Edinburgh studying Soft Matter Physics under the supervision of Professor [Pual Clegg](https://www.ph.ed.ac.uk/people/paul-clegg). Previously, she was an undergraduate student at the University of Sheffield where she obtained her Master of Physics degree through a Balchelor-Master-integrated program.
 
 Ms. Yuchen Si can be best reached out via email. Please feel free to send email to inquire for research and collaboration oppotunities.
+
+Link to my significant other: seacowx.github.io
