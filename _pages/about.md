@@ -23,4 +23,4 @@ Ms. Yuchen Si is a 3rd year Ph.D. student at the University of Edinburgh studyin
 
 Ms. Yuchen Si can be best reached out via email. Please feel free to send email to inquire for research and collaboration oppotunities.
 
-Link to my significant other: [seacowx.github.io](https://seacowx.github.io/)
+Link to my significant other: [Hainiu Xu](https://seacowx.github.io/)
