@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
+    <p>yuchen.si@ed.ac.uk</p>
     <p>James Clerk Maxwell Building (JCMB)</p>
     <p>Room 2510</p>
     <p>Edinburgh, EH9 3JW</p>
